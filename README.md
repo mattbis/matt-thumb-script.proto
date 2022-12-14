@@ -1,0 +1,2 @@
+# matt-thumb-script.proto
+..
